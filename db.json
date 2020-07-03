@@ -1,14 +1,91 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "messages": [
+    {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      },
+     {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      },
+     {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      },
+      {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      },
+      {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      },
+      {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      },
+      {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      },  {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      },  {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      },  {
+        "dateFrom": "",
+        "dateTo": "",
+        "messageDirection": "Both",
+        "origin": "FRAFMLH",
+        "destination": "CHIC1UA",
+        "messageType": "All",
+        "awbNumber": "45245242452"
+      }
+   ]
 }
